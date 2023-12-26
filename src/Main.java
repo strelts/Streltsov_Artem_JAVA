@@ -17,7 +17,7 @@ public class Main {
         String name = sc.nextLine();
         if (name.equals("Вячеслав"))
         {
-            System.out.println("Привет, "+name);
+            System.out.println("Привет , "+name);
         }
         else {
             System.out.println("Нет такого имени");
